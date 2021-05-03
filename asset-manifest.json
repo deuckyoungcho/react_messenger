@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react_messenger/static/js/main.c3c802a3.chunk.js",
-    "main.js.map": "/react_messenger/static/js/main.c3c802a3.chunk.js.map",
+    "main.js": "/react_messenger/static/js/main.d528a5d9.chunk.js",
+    "main.js.map": "/react_messenger/static/js/main.d528a5d9.chunk.js.map",
     "runtime-main.js": "/react_messenger/static/js/runtime-main.dd760a5e.js",
     "runtime-main.js.map": "/react_messenger/static/js/runtime-main.dd760a5e.js.map",
     "static/js/2.7a853d6d.chunk.js": "/react_messenger/static/js/2.7a853d6d.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.dd760a5e.js",
     "static/js/2.7a853d6d.chunk.js",
-    "static/js/main.c3c802a3.chunk.js"
+    "static/js/main.d528a5d9.chunk.js"
   ]
 }
