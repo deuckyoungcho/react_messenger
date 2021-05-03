@@ -1,7 +1,14 @@
 import React from "react";
+import GlobalStyle from "./GlobalStyle";
+import Messenger from "./components/Messenger";
 
 const App = () => {
-  return <div>ㅅㅂㄻ</div>;
+  return (
+    <>
+      <GlobalStyle />
+      <Messenger />
+    </>
+  );
 };
 
 export default App;
