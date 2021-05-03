@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/react_messenger/static/js/main.d528a5d9.chunk.js",
-    "main.js.map": "/react_messenger/static/js/main.d528a5d9.chunk.js.map",
-    "runtime-main.js": "/react_messenger/static/js/runtime-main.dd760a5e.js",
-    "runtime-main.js.map": "/react_messenger/static/js/runtime-main.dd760a5e.js.map",
-    "static/js/2.7a853d6d.chunk.js": "/react_messenger/static/js/2.7a853d6d.chunk.js",
-    "static/js/2.7a853d6d.chunk.js.map": "/react_messenger/static/js/2.7a853d6d.chunk.js.map",
+    "main.js": "/react_messenger/static/js/main.6277687e.chunk.js",
+    "main.js.map": "/react_messenger/static/js/main.6277687e.chunk.js.map",
+    "runtime-main.js": "/react_messenger/static/js/runtime-main.4d4cf294.js",
+    "runtime-main.js.map": "/react_messenger/static/js/runtime-main.4d4cf294.js.map",
+    "static/js/2.5d41978a.chunk.js": "/react_messenger/static/js/2.5d41978a.chunk.js",
+    "static/js/2.5d41978a.chunk.js.map": "/react_messenger/static/js/2.5d41978a.chunk.js.map",
     "index.html": "/react_messenger/index.html",
-    "static/js/2.7a853d6d.chunk.js.LICENSE.txt": "/react_messenger/static/js/2.7a853d6d.chunk.js.LICENSE.txt"
+    "static/js/2.5d41978a.chunk.js.LICENSE.txt": "/react_messenger/static/js/2.5d41978a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd760a5e.js",
-    "static/js/2.7a853d6d.chunk.js",
-    "static/js/main.d528a5d9.chunk.js"
+    "static/js/runtime-main.4d4cf294.js",
+    "static/js/2.5d41978a.chunk.js",
+    "static/js/main.6277687e.chunk.js"
   ]
 }
